@@ -17,4 +17,4 @@ I run a 10,000+ note Obsidian vault as a daily agent harness: `CLAUDE.md`/`AGENT
 
 ## Links
 
-[cmdspace.work](https://cmdspace.work) (KR) · [system.cmdspace.work](https://system.cmdspace.work) (EN/KR) · [더배러 newsletter](https://thebetter.stibee.com/) · Cmdspace.contact@gmail.com
+[cmdspace.work](https://cmdspace.work) (KR) · [system.cmdspace.work](https://system.cmdspace.work) (EN/KR) · [더배러 newsletter](https://thebetter.stibee.com/) · johnfkoo951@gmail.com
