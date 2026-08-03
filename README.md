@@ -14,6 +14,7 @@ I run a 10,000+ note Obsidian vault as a daily agent harness: `CLAUDE.md`/`AGENT
 | [cmds-llm-wiki](https://github.com/johnfkoo951/cmds-llm-wiki) | Karpathy's LLM Wiki pattern as an Obsidian starter kit (11 commands, dual Claude Code·Codex harness) → [llm-wiki.cmdspace.work](https://llm-wiki.cmdspace.work) |
 | [cmds-vault](https://github.com/johnfkoo951/cmds-vault) | CMDS PKM starter vault — Connect → Merge → Develop → Share |
 | [CmdMD](https://github.com/johnfkoo951/CmdMD) | Native macOS markdown editor (Swift/SwiftUI), review-first → [cmdmd.cmdspace.work](https://cmdmd.cmdspace.work) |
+| [cmux-tips](https://github.com/johnfkoo951/cmux-tips) | Field-tested tips for running multiple Claude Code sessions in [cmux](https://cmux.com/) — workspace groups, hooks, session addressing (EN/KR) |
 
 ## Links
 
