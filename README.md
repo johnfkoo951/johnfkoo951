@@ -15,6 +15,8 @@ I run a 10,000+ note Obsidian vault as a daily agent harness: `CLAUDE.md`/`AGENT
 | [cmds-vault](https://github.com/johnfkoo951/cmds-vault) | CMDS PKM starter vault — Connect → Merge → Develop → Share |
 | [CmdMD](https://github.com/johnfkoo951/CmdMD) | Native macOS markdown editor (Swift/SwiftUI), review-first → [cmdmd.cmdspace.work](https://cmdmd.cmdspace.work) |
 | [cmux-tips](https://github.com/johnfkoo951/cmux-tips) | Field-tested tips for running multiple Claude Code sessions in [cmux](https://cmux.com/) — workspace groups, hooks, session addressing (EN/KR) |
+| [cmds-share](https://github.com/johnfkoo951/cmds-share) | Obsidian plugin — share notes to the web with governance: view counts, expiry, revocation, E2E encryption |
+| [cmds-share-server](https://github.com/johnfkoo951/cmds-share-server) | Self-hostable governance backend for CMDS Share → [share.cmdspace.work](https://share.cmdspace.work) |
 
 ## Links
 
