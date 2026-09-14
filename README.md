@@ -15,10 +15,10 @@ I run a 10,000+ note Obsidian vault as a daily agent harness: `CLAUDE.md`/`AGENT
 | [cmds-vault](https://github.com/johnfkoo951/cmds-vault) | CMDS PKM starter vault — Connect → Merge → Develop → Share |
 | [CmdMD](https://github.com/johnfkoo951/CmdMD) | Native macOS markdown editor (Swift/SwiftUI), review-first → [cmdmd.cmdspace.work](https://cmdmd.cmdspace.work) |
 | [cmux-tips](https://github.com/johnfkoo951/cmux-tips) | Field-tested tips for running multiple Claude Code sessions in [cmux](https://cmux.com/) — workspace groups, hooks, session addressing (EN/KR) |
-| [cmds-share](https://github.com/johnfkoo951/cmds-share) | Obsidian plugin — share notes to the web with governance: view counts, expiry, revocation, E2E encryption |
-| [CMDS-Achmage](https://github.com/CMDSPACE-DEV/CMDS-Achmage) | Obsidian AI agent plugin — note-grounded chat, Edit note mode with deterministic Apply (no apply model), image generation from text/selection/note/clipboard with Eagle library delivery, MCP research tools; co-developed with Prof. Changhyun Ahn |
-| [cmds-eagle](https://github.com/johnfkoo951/cmds-eagle) | Obsidian plugin — connect an [Eagle](https://eagle.cool) asset library to the vault: search and embed assets, import across multiple libraries into a chosen folder, cloud upload (ImgHippo · R2 · S3 · WebDAV) |
-| [cmds-zotero](https://github.com/johnfkoo951/cmds-zotero) | Local-first Zotero integration: verified citation index, literature and annotation imports, evidence links, cross-vault navigation, and Hookmark-compatible links |
+| [cmds-share](https://github.com/johnfkoo951/cmds-share) | Publish selected Obsidian notes; governance depends on the hosting backend, and images are not encrypted → [Guide](https://apps.cmdspace.work/plugins/cmds-share/) |
+| [CMDS-Achmage](https://github.com/CMDSPACE-DEV/CMDS-Achmage) | Note-grounded AI chat, reviewable editing and image workflows; co-developed with Prof. Changhyun Ahn → [Guide](https://apps.cmdspace.work/plugins/cmds-achmage/) |
+| [cmds-eagle](https://github.com/johnfkoo951/cmds-eagle) | Search and embed Eagle assets, select import destinations and connect images to notes → [Guide](https://apps.cmdspace.work/plugins/cmds-eagle/) |
+| [cmds-zotero](https://github.com/johnfkoo951/cmds-zotero) | **In development:** Zotero literature, annotation and citation integration; no general release yet → [Development guide](https://apps.cmdspace.work/plugins/cmds-zotero/) |
 | [cmds-share-server](https://github.com/johnfkoo951/cmds-share-server) | Self-hostable governance backend for CMDS Share → [share.cmdspace.work](https://share.cmdspace.work) |
 | [jisan-blog](https://github.com/johnfkoo951/jisan-blog) | 紙散 (Jisan) — author blog, vault-as-CMS static generator (essays + frameworks, citation-ready permanent URLs) → [jisan.cmdspace.work](https://jisan.cmdspace.work) |
 
