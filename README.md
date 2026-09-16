@@ -14,6 +14,7 @@ I run a 10,000+ note Obsidian vault as a daily agent harness: `CLAUDE.md`/`AGENT
 | [cmds-llm-wiki](https://github.com/johnfkoo951/cmds-llm-wiki) | Karpathy's LLM Wiki pattern as an Obsidian starter kit (11 commands, dual Claude Code·Codex harness) → [llm-wiki.cmdspace.work](https://llm-wiki.cmdspace.work) |
 | [cmds-vault](https://github.com/johnfkoo951/cmds-vault) | CMDS PKM starter vault — Connect → Merge → Develop → Share |
 | [CmdMD](https://github.com/johnfkoo951/CmdMD) | Native macOS markdown editor (Swift/SwiftUI), review-first → [cmdmd.cmdspace.work](https://cmdmd.cmdspace.work) |
+| [plaud-note-manager-community](https://github.com/johnfkoo951/plaud-note-manager-community) | Plaud recording library for macOS·Windows workshops — local search, preview-first folder routing over your own folders, BYO provider keys → [plaud.cmdspace.work](https://plaud.cmdspace.work) |
 | [cmux-tips](https://github.com/johnfkoo951/cmux-tips) | Field-tested tips for running multiple Claude Code sessions in [cmux](https://cmux.com/) — workspace groups, hooks, session addressing (EN/KR) |
 | [cmds-share](https://github.com/johnfkoo951/cmds-share) | Publish selected Obsidian notes; governance depends on the hosting backend, and images are not encrypted → [Guide](https://apps.cmdspace.work/plugins/cmds-share/) |
 | [CMDS-Achmage](https://github.com/CMDSPACE-DEV/CMDS-Achmage) | Note-grounded AI chat, reviewable editing and image workflows; co-developed with Prof. Changhyun Ahn → [Guide](https://apps.cmdspace.work/plugins/cmds-achmage/) |
