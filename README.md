@@ -20,7 +20,7 @@ I run a 10,000+ note Obsidian vault as a daily agent harness: `CLAUDE.md`/`AGENT
 | [cmds-share](https://github.com/johnfkoo951/cmds-share) | Publish selected Obsidian notes; governance depends on the hosting backend, and images are not encrypted → [Guide](https://apps.cmdspace.work/plugins/cmds-share/) |
 | [CMDS-Achmage](https://github.com/CMDSPACE-DEV/CMDS-Achmage) | Note-grounded AI chat, reviewable editing and image workflows; co-developed with Prof. Changhyun Ahn → [Guide](https://apps.cmdspace.work/plugins/cmds-achmage/) |
 | [cmds-eagle](https://github.com/johnfkoo951/cmds-eagle) | Search and embed Eagle assets, select import destinations and connect images to notes → [Guide](https://apps.cmdspace.work/plugins/cmds-eagle/) |
-| [cmds-zotero](https://github.com/johnfkoo951/cmds-zotero) | **In development:** Zotero literature, annotation and citation integration; no general release yet → [Development guide](https://apps.cmdspace.work/plugins/cmds-zotero/) |
+| [cmds-zotero](https://github.com/johnfkoo951/cmds-zotero) | Send what you read in Zotero to literature notes: recently read papers, annotations, citations, PDF text and an agent CLI (0.5.0 release) → [Guide](https://apps.cmdspace.work/plugins/cmds-zotero/) |
 | [cmds-share-server](https://github.com/johnfkoo951/cmds-share-server) | Self-hostable governance backend for CMDS Share → [share.cmdspace.work](https://share.cmdspace.work) |
 | [jisan-blog](https://github.com/johnfkoo951/jisan-blog) | 紙散 (Jisan) — author blog, vault-as-CMS static generator (essays + frameworks, citation-ready permanent URLs) → [jisan.cmdspace.work](https://jisan.cmdspace.work) |
 
