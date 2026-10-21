@@ -23,6 +23,7 @@ I run a 10,000+ note Obsidian vault as a daily agent harness: `CLAUDE.md`/`AGENT
 | [cmds-zotero](https://github.com/johnfkoo951/cmds-zotero) | Send what you read in Zotero to literature notes: recently read papers, annotations, a citation editor, bibliographies in Zotero's styles, a pandoc export kit and an agent CLI (0.6.5 release) → [Guide](https://apps.cmdspace.work/plugins/cmds-zotero/) · [Obsidian Community](https://community.obsidian.md/plugins/cmds-zotero) |
 | [cmds-share-server](https://github.com/johnfkoo951/cmds-share-server) | Self-hostable governance backend for CMDS Share → [share.cmdspace.work](https://share.cmdspace.work) |
 | [jisan-blog](https://github.com/johnfkoo951/jisan-blog) | 紙散 (Jisan) — author blog, vault-as-CMS static generator (essays + frameworks, citation-ready permanent URLs) → [jisan.cmdspace.work](https://jisan.cmdspace.work) |
+| [vault-blog-starter](https://github.com/johnfkoo951/vault-blog-starter) | Template repo: write in an Obsidian vault, publish a citable static blog (reader sidebars, bilingual APA citations, captioned images, search, RSS). The engine behind Jisan, MIT |
 
 ## Links
 
