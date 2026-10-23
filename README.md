@@ -13,6 +13,7 @@ I run a 10,000+ note Obsidian vault as a daily agent harness: `CLAUDE.md`/`AGENT
 | [cmds-system-files](https://github.com/johnfkoo951/cmds-system-files) | The open spec behind the vault — `CLAUDE.md` · `AGENTS.md` · rules · 9-category taxonomy → [system.cmdspace.work](https://system.cmdspace.work) |
 | [cmds-llm-wiki](https://github.com/johnfkoo951/cmds-llm-wiki) | Karpathy's LLM Wiki pattern as an Obsidian starter kit (11 commands, dual Claude Code·Codex harness) → [llm-wiki.cmdspace.work](https://llm-wiki.cmdspace.work) |
 | [cmds-vault](https://github.com/johnfkoo951/cmds-vault) | CMDS PKM starter vault — Connect → Merge → Develop → Share |
+| [akm-eval](https://github.com/johnfkoo951/akm-eval) | Evidence-based self-assessment of human–agent knowledge-management systems — 5 pillars, 25 criteria, English/Korean documentation → [AKM Index](https://akm.cmdspace.work/?lang=en) · [English rubric](https://akm.cmdspace.work/rubric.html?lang=en) |
 | [CmdMD](https://github.com/johnfkoo951/CmdMD) | Native macOS markdown editor (Swift/SwiftUI), review-first → [cmdmd.cmdspace.work](https://cmdmd.cmdspace.work) |
 | [CmdPilot](https://github.com/johnfkoo951/CmdPilot) | Browser-based Mac control companion — trackpad, keyboard, deck and AI-agent remote over a private connection |
 | [plaud-note-manager-community](https://github.com/johnfkoo951/plaud-note-manager-community) | Plaud recording library for macOS·Windows workshops — local search, preview-first folder routing over your own folders, BYO provider keys → [plaud.cmdspace.work](https://plaud.cmdspace.work) |
