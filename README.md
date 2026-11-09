@@ -26,7 +26,7 @@ I run a 10,000+ note Obsidian vault as a daily agent harness: `CLAUDE.md`/`AGENT
 | [cmds-share-server](https://github.com/johnfkoo951/cmds-share-server) | Self-hostable governance backend for CMDS Share → [share.cmdspace.work](https://share.cmdspace.work) |
 | [jisan-blog](https://github.com/johnfkoo951/jisan-blog) | 紙散 (Jisan) — author blog, vault-as-CMS static generator (essays + frameworks, citation-ready permanent URLs) → [jisan.cmdspace.work](https://jisan.cmdspace.work) |
 | [vault-blog-starter](https://github.com/johnfkoo951/vault-blog-starter) | Template repo: write in an Obsidian vault, publish a citable static blog (reader sidebars, bilingual APA citations, captioned images, search, RSS). The engine behind Jisan, MIT |
-| [joyeondang-ideas](https://github.com/johnfkoo951/joyeondang-ideas) | Ideas box for Joyeondang Online, a family's 3D house you walk with friends: room, mini-game and event proposals through bilingual issue forms (proposals only, no code) → [joyeondang.cmdspace.work](https://joyeondang.cmdspace.work) |
+| [joyeondang-online](https://github.com/johnfkoo951/joyeondang-online) | A small 3D house you walk through with friends: three.js walk engine, mini-game cartridges, walking together on Cloudflare Durable Objects, and a privacy gate for family data (code MIT, content CC BY-NC) → [joyeondang.cmdspace.work](https://joyeondang.cmdspace.work) |
 
 ## Links
 
